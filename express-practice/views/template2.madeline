@@ -1,0 +1,8 @@
+<head>
+<title> This Title Is Set </title>
+</head>
+<body>
+<header>#msg#</header>
+#content#
+#content2#
+</body>
